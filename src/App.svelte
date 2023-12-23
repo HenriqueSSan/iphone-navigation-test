@@ -2,6 +2,8 @@
 </script>
 
 <main>
+  opaksopdkaspodkaopksdpakspdaks
+
   <div class="sticky-footer">
     <div class="sticky-footer__item">
       <img src="http://via.placeholder.com/50" alt="" />
@@ -37,7 +39,6 @@
       flex-direction: column;
       align-items: center;
       padding: 1rem 0;
-      padding-bottom: calc(1rem + env(safe-area-inset-bottom));
 
       img {
         margin-bottom: 0.5rem;
