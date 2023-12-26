@@ -27,7 +27,7 @@ body main {
   }
 }
 
-@media screen and (min-width: 420px) {
+@media screen and (min-width: 480px) {
   body #app {
     background-color: red;
   }
@@ -46,7 +46,6 @@ body main {
     background-color: purple;
   }
 }
-
 
 @media screen and (min-width: 620px) {
   body #app {
