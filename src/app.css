@@ -27,7 +27,7 @@ body main {
   }
 }
 
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 460px) {
   body #app {
     background-color: red;
   }
